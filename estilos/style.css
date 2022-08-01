@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(168, 119, 214);
+    background-color: rgb(102, 241, 102);
 
 }
 
@@ -14,4 +14,8 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px black;
+}
+
+img.Lado {
+    float: right;
 }
